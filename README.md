@@ -10,7 +10,7 @@ The project utilizes **Google's Gemini API** (Generative AI) to process the imag
 
 - **Multi-image support**: Upload multiple screenshots at once to generate a single, unified set of test cases.
 - **Text input-based prompt**: Input custom prompts alongside images for context-based testing instructions.
-- **Cyberpunk-inspired UI**: A visually striking red and black gradient UI with hover effects for interactive experience.
+- **Redbus-inspired UI**: A visually striking red and black gradient UI with hover effects for interactive experience.
 - **Hover Image Effect**: Images slightly enlarge and appear unblurred upon hover while the background blurs.
 - **RESTful API**: Built with Express.js to handle image uploads and interaction with the **Google Gemini API**.
   
@@ -38,7 +38,7 @@ Each generated test case includes:
 
 - **Backend**: Node.js, Express.js, Multer (for image uploads)
 - **AI Model**: Google Generative AI (Gemini API)
-- **Frontend**: HTML, CSS (Cyberpunk aesthetic)
+- **Frontend**: HTML, CSS 
 - **Storage**: File system for image storage
 - **Language**: JavaScript (ES6+)
 
