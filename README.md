@@ -122,3 +122,28 @@ Usage
 
 **Google Generative AI** for the Gemini API used to generate content.
 **WebStorm** for providing a seamless development environment.
+
+
+## Screenshots 
+
+![image](https://github.com/user-attachments/assets/8be41faf-1133-49e0-9615-2a24c6210914)
+
+![image](https://github.com/user-attachments/assets/0fd4830b-1793-4535-b630-eca3faa3d853)
+
+![image](https://github.com/user-attachments/assets/d1f82384-0c6c-4ca4-8d75-39ef20e0abb9)
+
+![image](https://github.com/user-attachments/assets/8acf2d01-d5a8-443e-9320-3c7b6a8677f9)
+
+![image](https://github.com/user-attachments/assets/ec086517-3526-4d1b-9468-1ce670455e7f)
+
+![image](https://github.com/user-attachments/assets/2d7d1da1-2ca2-45b5-8f83-fc93332c067e)
+
+![image](https://github.com/user-attachments/assets/7a37ca87-5564-428c-92b1-c3ba5605a4be)
+
+![image](https://github.com/user-attachments/assets/dbd71544-f867-4d35-b9a7-0d12287ea0eb)
+
+![image](https://github.com/user-attachments/assets/36a2a157-3525-4ec1-8cea-e3491d54de72)
+
+![image](https://github.com/user-attachments/assets/f711bae6-3c7c-43ea-aacb-83dcf1993501)
+
+![image](https://github.com/user-attachments/assets/df668965-2e24-4063-bde1-666b31ec5b08)
