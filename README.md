@@ -106,6 +106,35 @@ Usage
 
 **.env:** Stores API keys and environment variables (not included in the repo for security).
 
+## Prompting Strategy 
+
+Alongside the images being fed in and the prompt put in by the user, appending a constructive prompt on the backend
+designed to specifically take care of context improvement and a result-oriented analysis, was imperative. Here's the 
+internal prompting strategy to better hone in on the testing of the application - 
+
+*Generate a comprehensive stream of testing instructions based on the combined context from all uploaded images and the text input. The instructions should be segmented based on the following conditions:*
+
+**Core Features to Cover:**
+- Source, Destination, and Date Selection
+- Bus Selection
+- Seat Selection
+- Pick-up and Drop-off Point Selection
+
+**Bonus Features:**
+- Offers
+- Filters
+- Bus Information
+
+**Test Case Details:**
+- Description
+- Pre-conditions
+- Testing Steps
+- Expected Result
+
+The testing instructions should be well-organized and detailed. Each test case should include a description, pre-conditions, testing steps, and expected results. Ensure the instructions cover all elements and images provided.
+
+Add the aggregated context
+
 ## Future Enhancements
 
 **Integration with Other LLMs:** Explore integrating with other AI models to compare output quality.
